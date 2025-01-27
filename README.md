@@ -17,4 +17,4 @@ A **simple and responsive modal popup** built using **HTML**, **TailwindCSS**, a
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/Hamzabaloch08/responsive-modal-popup.git  
+   git clone https://github.com/Hamzabaloch08/modal.git  
